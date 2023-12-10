@@ -1,8 +1,5 @@
 package stepDefinitions;
 
-public class LOgin1 {
-	
-	
-	
+public class Bdd {
 
 }
